@@ -1,7 +1,7 @@
 # Hospital-Website
 # 🏥 LifeCare - Hospital Website
 
-
+![image](https://github.com/anushkagupta1211/Hospital-Website/blob/main/Lifecare_Photo.png?raw=true)
 
 Welcome to **LifeCare**, a responsive and modern hospital website built using HTML, CSS, and JavaScript. This project is ideal for showcasing a healthcare organization's services, doctors, specialties, patient reviews, and contact form—all in one place.
 
@@ -32,5 +32,6 @@ LifeCare is a static front-end project that highlights the key sections of a hos
 - **JavaScript** – Basic Interactions
 - **Google Fonts** – Custom Typography
 - **Font Awesome** – Icons
-**Made with ❤️ by Anushka Gupta**
+##
+-**Made with ❤️ by Anushka Gupta**
 
